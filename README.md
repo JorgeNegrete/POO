@@ -1,4 +1,0 @@
-POO
-===
-
-Tarea Programación Exceptions
